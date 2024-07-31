@@ -8,6 +8,7 @@
 - You can reach me at **zchriste16@gmail.com**
 - My linkedin: **https://www.linkedin.com/in/zane-christe/**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xp-squared&show_icons=true&locale=en&layout=compact" alt="xp-squared" /></p>
 
 <!---
 xp-squared/xp-squared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
